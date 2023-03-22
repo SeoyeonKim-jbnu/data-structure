@@ -4,10 +4,11 @@
 
 int main()
 {
-	clock_t start, finish; // 시작 시각, 끝나느 시각 
+	clock_t start, finish; // 시작 시각, 끝나는 시각 
 	double duration;       // 걸린 시간
 	
 	start = clock();       // 현재 시각을 start에 저장
+	int a = 10 + 20; 
 	//실행시간을 측정하고자하는 코드 입력
 
 	// ...
