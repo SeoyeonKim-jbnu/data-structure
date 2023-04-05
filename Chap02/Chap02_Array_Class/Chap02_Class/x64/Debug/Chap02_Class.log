@@ -1,4 +1,1 @@
-﻿  class_example.cpp
-C:\Users\전자공학부\Desktop\data-structure\Chap02\Chap02_Array_Class\Chap02_Class\Car.h(31,10): warning C4477: 'printf' : 서식 문자열 '%x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'Car *'입니다.
-C:\Users\전자공학부\Desktop\data-structure\Chap02\Chap02_Array_Class\Chap02_Class\Car.h(31,10): warning C4313: 'printf': 서식 문자열의 '%x'이(가) Car *' 형식의 인수 1과(와) 충돌합니다.
-  Chap02_Class.vcxproj -> C:\Users\전자공학부\Desktop\data-structure\Chap02\Chap02_Array_Class\x64\Debug\Chap02_Class.exe
+﻿  Chap02_Class.vcxproj -> C:\Users\82103\OneDrive\바탕 화면\대학교\eei\데이터구조및프로그래밍실습\data-structure\Chap02\Chap02_Array_Class\x64\Debug\Chap02_Class.exe
