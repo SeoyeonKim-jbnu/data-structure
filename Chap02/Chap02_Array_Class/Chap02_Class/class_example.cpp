@@ -2,8 +2,8 @@
 
 int main()
 {
-	Car yourCar;    //yourCar 按眉 积己
-	//Car myCar(80, "myCar" 4);
+	//Car yourCar;    //yourCar 按眉 积己, 积己磊 窃荐 角青
+	Car yourCar(80, 4, "yourCar");
 	yourCar.display();
 	yourCar.whereAmI();
 	yourCar.gear = 5;
