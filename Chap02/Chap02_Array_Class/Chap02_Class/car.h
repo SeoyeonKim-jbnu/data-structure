@@ -14,11 +14,11 @@ public:                         // 외부 접근 가능
 	Car() : speed(0), gear(0), name("") {}  // 생성자 (Constructor, 인수가 없는 경우), 멤버변수 초기화 
 	~Car() {}								// 소멸자
 	Car(int s, int g, const char* n)              // 생성자 (인수가 있는 경우
-		: speed(s), gear(g) {
+		: speed(s), gear(g) {                // 멤버 초기화 리스트 
 		strcpy_s(name, n);			   	 // n 문자열을 name에 copy하는 함수
 	}
 
-	void changeGear(int g ) {
+	void changeGear(int g=4 ) {
 		gear = g;
 	}
 	void speedUp() {

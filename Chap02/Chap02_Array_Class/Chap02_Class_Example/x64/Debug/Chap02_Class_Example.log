@@ -1,7 +1,3 @@
-﻿  polynomial.cpp
-C:\Users\전자공학부\Desktop\data-structure\Chap02\Chap02_Array_Class\Chap02_Class_Example\polynomial.h(16,1): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\전자공학부\Desktop\data-structure\Chap02\Chap02_Array_Class\Chap02_Class_Example\polynomial.h(23,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\전자공학부\Desktop\data-structure\Chap02\Chap02_Array_Class\Chap02_Class_Example\polynomial.h(27,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\전자공학부\Desktop\data-structure\Chap02\Chap02_Array_Class\Chap02_Class_Example\polynomial.h(48,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\전자공학부\Desktop\data-structure\Chap02\Chap02_Array_Class\Chap02_Class_Example\polynomial.h(51,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  Chap02_Class_Example.vcxproj -> C:\Users\전자공학부\Desktop\data-structure\Chap02\Chap02_Array_Class\x64\Debug\Chap02_Class_Example.exe
+﻿  class_exam.cpp
+polynomial.obj : error LNK2005: main이(가) class_exam.obj에 이미 정의되어 있습니다.
+C:\Users\전자공학부\Desktop\data-structure\Chap02\Chap02_Array_Class\x64\Debug\Chap02_Class_Example.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
