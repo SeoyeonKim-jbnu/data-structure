@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="class_exam.cpp" />
     <ClCompile Include="polynomial.cpp">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</SDLCheck>
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</SDLCheck>
@@ -135,6 +136,8 @@
   <ItemGroup>
     <ClInclude Include="birthday.h" />
     <ClInclude Include="polynomial.h" />
+    <ClInclude Include="SmartHome.h" />
+    <ClInclude Include="Rectangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

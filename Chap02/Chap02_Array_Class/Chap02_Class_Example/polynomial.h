@@ -1,8 +1,8 @@
 #pragma once
 #include <cstdio>
-#include <cstring> // 문자열 함수
+// #include <cstring> // 문자열 함수
 #include <vector>  // STL vector 라이브러리
-#include <iostream> // input output stream
+// #include <iostream> // input output stream
 using namespace std;
 
 #define MAX_DEGREE 100

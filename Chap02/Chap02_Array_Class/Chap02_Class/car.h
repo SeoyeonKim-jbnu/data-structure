@@ -28,6 +28,6 @@ public:                         // 외부 접근 가능
 		printf("[%s]  : 기어=%d단, 속도=%dkmph\n", name, gear, speed);
 	}
 	void whereAmI() {
-		printf("객체 주소 = %x\n", this);     // 주소 this 포인터
+		printf("객체 주소 = %x\n", this);     // 객체 주소 this 포인터
 	}
 };

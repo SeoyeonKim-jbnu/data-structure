@@ -1,6 +1,6 @@
 #pragma once
-#include <cstdio>
-#include <cstring>
+// #include <cstdio>
+// #include <cstring>
 
 class Birthday {
 public:
