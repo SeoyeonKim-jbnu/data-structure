@@ -29,10 +29,17 @@
     <ClInclude Include="birthday.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+<<<<<<< HEAD
     <ClInclude Include="SmartHome.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="Rectangle.h">
+=======
+    <ClInclude Include="rectangle.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="smartHome.h">
+>>>>>>> 83b76102bb8e28e104d6beb495b669aeec8625db
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
