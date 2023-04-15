@@ -5,13 +5,13 @@ using namespace std;
 
 class SmartHome {
 private:
-	string owner; //집주인 이름
+	const char* owner; //집주인 이름
 	int temperature;
 	int humidity;
 	bool security;  //보안 시스템 상태 (true : 작동중, false : 비활성)
 
 public:
-	SmartHome(string owner, int temperature, int humidity, bool security) {
+	SmartHome(const char* owner, int temperature, int humidity, bool security) {
 		this->owner = owner; //초기화 시키는 방법
 		this->temperature = temperature;
 		this->humidity = humidity;
