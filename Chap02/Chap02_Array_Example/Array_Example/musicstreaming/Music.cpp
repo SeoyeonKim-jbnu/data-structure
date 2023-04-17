@@ -6,7 +6,7 @@ int main()
 	MusicStreamingService myService("MyMusic");
 	myService.addMusic("Say My Name", "Say Yes!", "Ablum", 2023);
 	myService.addMusic("I am", "Ive", "Ablum", 2023);
-	myService.addMusic("Kistch", "Ive", "Ablum", 2023);
+	myService.addMusic("Kitsch", "Ive", "Ablum", 2023);
 	myService.addMusic("Flower", "Jisoo", "Ablum", 2023);
 
 	//Search for music by title
