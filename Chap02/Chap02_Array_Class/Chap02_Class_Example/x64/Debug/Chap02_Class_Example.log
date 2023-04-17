@@ -1,7 +1,0 @@
-﻿  class_exam.cpp
-<<<<<<< HEAD
-C:\Users\82103\OneDrive\바탕 화면\대학교\eei\데이터구조및프로그래밍실습\data-structure\Chap02\Chap02_Array_Class\Chap02_Class_Example\class_exam.cpp(1,10): fatal  error C1083: 포함 파일을 열 수 없습니다. 'SmartHome.h': No such file or directory
-=======
-polynomial.obj : error LNK2005: main이(가) class_exam.obj에 이미 정의되어 있습니다.
-C:\Users\전자공학부\Desktop\data-structure\Chap02\Chap02_Array_Class\x64\Debug\Chap02_Class_Example.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
->>>>>>> 83b76102bb8e28e104d6beb495b669aeec8625db
